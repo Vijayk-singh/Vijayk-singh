@@ -9,9 +9,9 @@
 <!--ABOUT ME CODE-->
 # **About myself**<br>
 
-✔️ I am **Full Stack Developer**, currently pursuing MCA (Master of Computer Application) from IGNOU. <br>
+✔️ I am a **Full Stack Developer**, currently pursuing MCA (Master of Computer Application) from IGNOU. <br>
 
-✔️ I am interested in Information Tecnology and Application Development <br>
+✔️ I am interested in Information Tecnology and Application Development. <br>
 
 ✔️ I have experience in FULL stack web development using MERN and learning React Native Mobile application Development.<br>
 
